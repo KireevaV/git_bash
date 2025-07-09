@@ -3,6 +3,4 @@
 
 ## Работа с Git и Bash
 Навигация по файловой системе, создание, удаление и переименование файлов и папок с помощью Bash
-{документы}
-
-[bash1 (1).txt](https://github.com/user-attachments/files/21142591/bash1.1.txt)
+[ссылка на документ](https://github.com/user-attachments/files/21142591/bash1.1.txt)
