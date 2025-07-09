@@ -1,7 +1,8 @@
-# git_bash
+# Git_Bash
+Репозиторий содержит практические упражнения по работе с Git и Bash, выполненные с использованием терминала встроенного в редактор Visual Studio Code.
 
-# работа с git и bash
+## Работа с Git и Bash
+Навигация по файловой системе, создание, удаление и переименование файлов и папок с помощью Bash
 {документы}
 
-[bash1.txt](https://github.com/user-attachments/files/21037051/bash1.txt)
-[bash2.txt](https://github.com/user-attachments/files/21037053/bash2.txt)
+[bash1 (1).txt](https://github.com/user-attachments/files/21142591/bash1.1.txt)
